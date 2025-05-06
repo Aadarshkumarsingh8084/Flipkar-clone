@@ -1,5 +1,5 @@
 # Flipkart-clone
-
+Using HTML CSS AND JS
 <h1>Flipkart Clone - README</h1>
 <h2>Overview</h2>
 <p>This is a simple Flipkart Clone built to demonstrate e-commerce website functionality. It mimics the core features of Flipkart, including product listing, shopping cart, user authentication, and checkout flow. The project is designed to replicate an online shopping experience, providing users with an intuitive UI and essential e-commerce features.</p>
