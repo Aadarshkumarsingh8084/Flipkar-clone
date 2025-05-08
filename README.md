@@ -15,7 +15,7 @@ Checkout: Allows users to input shipping details, choose payment methods, and pl
 Order Management: Users can view their order history and track orders.</p>
 
 <h2>Technologies Used</h2>
-Frontend:
+<h3>Frontend:</h3>
 HTML
 CSS
 JavaScript
